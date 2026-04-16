@@ -164,4 +164,21 @@
     <string name="notification_vibration_pattern_title">Padrão de vibração da notificação</string>
     <string name="ring_vibration_pattern_title">Padrão de vibração do toque</string>
     <string name="pattern_default">Padrão do dispositivo</string>
+    <string name="berry_black_theme_title">Usar tema preto puro</string>
+    <string name="berry_black_theme_summary">Plano de fundo totalmente preto para o tema escuro</string>
+    <string name="app_volume_title">Controle de volume por app</string>
+    <string name="app_volume_summary">Permite definir diferentes níveis de volume para cada aplicativo.</string>
+    <string name="volume_panel_expandable_title">Linhas de volume expansíveis</string>
+    <string name="volume_panel_expandable_summary">Expande as linhas de volume em vez de exibir o painel inferior de volume.</string>
+    <string name="grant_all_audio_focus_title">Liberar foco de áudio total</string>
+    <string name="grant_all_audio_focus_summary">Permite reproduzir áudio mesmo se você estiver em uma ligação.</string>
+    <string name="keybox_data_title">Selecionar XML do keybox</string>
+    <string name="keybox_data_summary">Mascara o atestado de chaves (key attestation) em todos os apps do sistema. Toque no ícone de excluir para redefinir para os valores padrão.</string>
+    <string name="pif_data_title">Selecionar JSON de props</string>
+    <string name="pif_data_summary">Mascara propriedades do dispositivo para atestação realizada pelo GMS e Play Store. Toque no ícone de excluir para redefinir para os valores padrão.</string>
+    <string name="platform_revision">Plataforma</string>
+    <string name="total_ram">RAM total</string>
+    <string name="build_date">Data da build</string>
+    <string name="ignore_window_secure_title">Permitir capturas em apps protegidos</string>
+    <string name="ignore_window_secure_summary">Ignora bloqueios de segurança para habilitar capturas de tela. Pode expor dados sensíveis.</string>
 </resources>

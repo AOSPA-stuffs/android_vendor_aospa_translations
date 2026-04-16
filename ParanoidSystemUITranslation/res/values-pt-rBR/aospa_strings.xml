@@ -44,4 +44,6 @@
     <string name="quick_settings_sound_ring">Tocar</string>
     <string name="quick_settings_sound_vibrate">Vibrar</string>
     <string name="quick_settings_sound_silent">Silencioso</string>
+    <string name="global_action_restart_advanced">Avançado</string>
+    <string name="global_action_restart_ui">Interface do sistema</string>
 </resources>
