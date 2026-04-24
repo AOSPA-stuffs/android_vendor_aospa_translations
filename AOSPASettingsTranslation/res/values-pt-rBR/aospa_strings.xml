@@ -158,9 +158,11 @@
     <string name="battery_design_capacity_summary">%1$d mAh</string>
     <string name="battery_maximum_capacity">Capacidade máxima</string>
     <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
-    <string name="heads_up_title">Heads up</string>
-    <string name="heads_up_summary">Mostrar notificações selecionadas como um banner no topo da tela</string>
-    <string name="heads_up_off">Heads up está desativado globalmente</string>
+    <string name="heads_up_title">Heads up (Notificações de alerta)</string>
+    <string name="heads_up_summary">Exibe notificações selecionadas como um banner no topo da tela</string>
+    <string name="heads_up_off">As notificações de alerta estão desativadas globalmente</string>
+    <string name="less_boring_heads_up_title">Notificações de alerta seletivas</string>
+    <string name="less_boring_heads_up_summary">Exibe notificações de alerta apenas para chamadas, mensagens, alarmes, lembretes e conversas prioritárias</string>
     <string name="notification_vibration_pattern_title">Padrão de vibração da notificação</string>
     <string name="ring_vibration_pattern_title">Padrão de vibração do toque</string>
     <string name="pattern_default">Padrão do dispositivo</string>
